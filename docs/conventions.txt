@@ -5,3 +5,10 @@ We are using go 1.9, make sure its installed.
 ###### Build tools ########
 dep(latest version) to manage dependencies
 
+
+###### Code Conventions ########
+Golang project layout - https://github.com/golang-standards/project-layout
+
+
+Datastore for Logfile - RocksDB/leveldb??? plz suggest
+
